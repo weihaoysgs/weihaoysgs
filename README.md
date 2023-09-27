@@ -14,7 +14,7 @@
 
 ---
 - 💬 Contact me
-  - weihaoysgs@gmail.com
+  - weihaoysgs@gmail.com or isweihao@zju.edu.cn
   - www.weihaoysgs.com
 
 <!--
