@@ -1,5 +1,14 @@
 ### Welcome to the magical world 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=weihaoysgs\&rank_icon=github"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weihaoysgs&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weihaoysgs\&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weihaoysgs&layout=compact)
 > **Talk is cheap, show me your code in real robot !**
 
 ---
