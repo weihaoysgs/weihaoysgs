@@ -23,7 +23,7 @@
 
 ---
 
-- Hi, 😄 I am studying for a master degree at Zhejiang University, main research direction is robust visual-inertial SLAM and real-time 3D reconstruction, also have 👯 SDR (sing, dance and rap). I have a little interesting personal projects, such as [Zhihuijun automatic bicycle](https://github.com/weihaoysgs/bike-xuan) and the handwritten [stero visual odometry](https://github.com/weihaoysgs/ssvio). You can also see the effects of these interesting result in [bilibili](https://space.bilibili.com/480920640?spm_id_from=333.1007.0.0), Good luck for you.
+- Hi, 😄 I am studying for a master degree at Zhejiang University, main research direction is robust visual-inertial SLAM and real-time 3D reconstruction, also have 👯 SDR (sing, dance and rap). I have a little interesting personal projects, such as [Zhihuijun automatic bicycle](https://github.com/weihaoysgs/bike-xuan) and the handwritten [stereo visual odometry](https://github.com/weihaoysgs/ssvio). You can also see the effects of these interesting result in [bilibili](https://space.bilibili.com/480920640?spm_id_from=333.1007.0.0), Good luck for you.
 
 <div align="center">
 
