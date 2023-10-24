@@ -1,4 +1,4 @@
-### Welcome to the magical world 👋
+### Hi, Welcome to my homepage 👋
 
 <div align="center">
 <table>
@@ -18,8 +18,6 @@
 </div>
 
 
-
-> **Talk is cheap, show me your code in real robot !**
 
 ---
 
