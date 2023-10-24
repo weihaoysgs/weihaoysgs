@@ -1,4 +1,4 @@
-### Hi, Welcome to my homepage 👋
+### Hi, welcome to my homepage 👋
 
 <div align="center">
 <table>
