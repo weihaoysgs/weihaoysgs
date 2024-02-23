@@ -17,7 +17,7 @@
 </table>
 </div>
 
-
+<!-- 
 
 > **Talk is cheap, show me your code in real robot !**
 
@@ -40,7 +40,7 @@
 ---
 - 💬 Contact me
 
-  - ![Email](https://img.shields.io/badge/Email-isweihao@zju.edu.cn-blue?link=https%3A%2F%2Fgithub.com%2Fweihaoysgs) ![Blog](https://img.shields.io/badge/Web-www.weihaoysgs.com-green) 
+  - ![Email](https://img.shields.io/badge/Email-isweihao@zju.edu.cn-blue?link=https%3A%2F%2Fgithub.com%2Fweihaoysgs) ![Blog](https://img.shields.io/badge/Web-www.weihaoysgs.com-green)  -->
 
 <!--
 **weihaoysgs/weihaoysgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
