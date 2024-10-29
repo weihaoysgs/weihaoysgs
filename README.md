@@ -1,5 +1,3 @@
-### Hi, welcome to my homepage 👋
-
 <div align="center">
 <table>
 <tr>
