@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 <table>
 <tr>
@@ -15,6 +16,7 @@
 </table>
 </div>
 
+-->
 
 <!-- - Hi, 😄 Recently, I have been engaged in translating the official documentation of the Ceres Solver into Chinese. In addition, I am in the process of developing a tutorial on Visual Inertial Odometry aimed at beginners. Your participation would be greatly welcomed. If you share an interest, I invite you to contact me(isweihao@zju.edu.cn) so we can contribute to the open-source community together. -->
 
